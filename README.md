@@ -3,7 +3,7 @@ Hello from CUHK AIST2602! This is another playground for our course students to 
 There are some teams in our course project:
 
 * [Team X](https://aist2602-2020.github.io/project-team-x/ 'Team-X') _@xinyandai_ (Please remove this line when you add the first actual team below)
-
+* [Team 2](https://aist2602-2020.github.io/project-ms3-team-b/) _@xinyandai_
 For more details, contact @xinyandai regarding course issues.
 
 ---
